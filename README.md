@@ -1,6 +1,6 @@
 
-<a href="https://www.nand2tetris.org/"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/effec0907511e4ba44bb6973b9260b/COURSE_IMAGE.png" title="Fr4nku's Nand2Tetris" alt="Fr4nku's Nand2Tetris"></a>
-# Nand2Tetris
+<a href="https://www.nand2tetris.org/"><img src="https://imgur.com/a/HIH5597" title="Fr4nku's Nand2Tetris" alt="Fr4nku's Nand2Tetris"></a>
+# Fr4nku's Nand2Tetris
 Nand2Tetris: Building a Modern Computer From First Principles.<br/>
 
 
