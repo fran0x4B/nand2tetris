@@ -17,4 +17,5 @@ Thanks to [Noam Nisan](https://www.cs.huji.ac.il/~noam/) and [Shimon Schocken](h
 ## Chapters
 > `Nand2Tetris` has 12 chapters. 
  I will cover every chapter and upload the relative files  as I finish the assigned project.
-- [Chapter1: Boolean Logic](https://github.com/fr4nku/nand2tetris/tree/master/Project%201)
+- [Chapter 1: Boolean Logic](https://github.com/fr4nku/nand2tetris/tree/master/Project%201)
+- [Chapter 2: Boolean Arithmetic](https://github.com/fr4nku/nand2tetris/tree/master/Project%202)
