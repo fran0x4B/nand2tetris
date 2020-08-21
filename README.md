@@ -1,5 +1,8 @@
 
 <a href="https://www.nand2tetris.org/"><img src="https://i.imgur.com/CtPlIme.jpg" title="Fr4nku's Nand2Tetris" alt="Fr4nku's Nand2Tetris"></a>
+<a href="https://www.nand2tetris.org/"><img src="https://i.imgur.com/OvVg2c3.png" title="Fr4nku's Nand2Tetris" alt="Fr4nku's Nand2Tetris"></a>
+
+
 # Fr4nku's Nand2Tetris
 Nand2Tetris: Building a Modern Computer From First Principles.<br/>
 
