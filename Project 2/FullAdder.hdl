@@ -2,6 +2,7 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 // File name: projects/02/FullAdder.hdl
+//  Implementation by Francesco Bozzano
 
 /**
  * Computes the sum of three bits.
