@@ -23,3 +23,4 @@ Thanks to [Noam Nisan](https://www.cs.huji.ac.il/~noam/) and [Shimon Schocken](h
 - [Chapter 1: Boolean Logic](https://github.com/fr4nku/nand2tetris/tree/master/Project%201)
 - [Chapter 2: Boolean Arithmetic](https://github.com/fr4nku/nand2tetris/tree/master/Project%202)
 - [Chapter 3: Sequential Logic](https://github.com/fr4nku/nand2tetris/tree/master/Project%203)
+- [Chapter 4: Machine Language](https://github.com/fr4nku/nand2tetris/tree/master/Project%204)
