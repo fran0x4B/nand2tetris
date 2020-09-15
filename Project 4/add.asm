@@ -1,0 +1,10 @@
+// Add RAM[0] + RAM[1]
+@0
+D=M
+@1
+D=D+M
+@2
+M=D
+// LOOP TO PREVENT NOP SLIDE
+@6
+0;JMP
